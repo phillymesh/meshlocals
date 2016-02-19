@@ -4,7 +4,7 @@ A list of all of the meshlocals for the Hyperboria network. Have an update? Send
 
 Want to see these as a multireddit? No problem!
 
-https://www.reddit.com/me/m/meshlocals/new/
+https://www.reddit.com/user/Famicoman/m/meshlocals
 
 
 ## Asia
