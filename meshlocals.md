@@ -221,7 +221,7 @@ https://www.reddit.com/me/m/meshlocals/new/
   * http://reddit.com/r/madnet
     * Madison
   * http://reddit.com/r/milwaukeemeshnet
-    *Milwaukee
+    * Milwaukee
   * http://reddit.com/r/TCMeshnet
     * Minneapolis–Saint Paul Twin Cities
 * Wyoming
