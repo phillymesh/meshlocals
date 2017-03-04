@@ -1,10 +1,10 @@
 # Meshlocals
 
-A list of all of the meshlocals for the Hyperboria network. Have an update? Send a pull request!
+A list of all of the meshlocals, working on mesh networks. Have an update? Send a pull request!
 
 Want to see these as a multireddit? No problem!
 
-https://www.reddit.com/user/Famicoman/m/meshlocals
+https://www.reddit.com/user/Famicoman/m/meshlocals/new
 
 
 ## Asia
@@ -182,6 +182,8 @@ https://www.reddit.com/user/Famicoman/m/meshlocals
 * Ohio
   * http://reddit.com/r/ClevelandMeshnet
     * Cleaveland
+  * http://reddit.com/r/ohiomeshnet
+    * Ohio general
 * Oklahoma
 * Oregon
   * http://reddit.com/r/PortlandMeshnet

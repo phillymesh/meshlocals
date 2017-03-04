@@ -1,6 +1,6 @@
 # Meshlocals
 
-Information about meshlocals connecting to Hyperboria
+Information about groups creating community mesh networks.
 
-[Meshlocals List](https://github.com/Famicoman/meshlocals/blob/master/meshlocals.md)
-
+[Meshlocal List](meshlocals.md)
+[Meshnet Subreddits](meshgeneral.md)
