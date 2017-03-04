@@ -10,48 +10,48 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 ## Asia
 
 * Asia-Pacific
-  * http://reddit.com/r/apacmesh
+  * https://reddit.com/r/apacmesh
     * Asia-Pacific region
 
 
 ## Australia
 
 * Queensland
-  * http://reddit.com/r/BrisbaneMeshNet
+  * https://reddit.com/r/BrisbaneMeshNet
     * Brisbane
 * New South Wales
-  * http://reddit.com/r/SydneyMeshnet
+  * https://reddit.com/r/SydneyMeshnet
     * Sydney
 
 
 ## Europe
 
 * Europe
-  * http://reddit.com/r/MeshnetEurope
+  * https://reddit.com/r/MeshnetEurope
     * Europe general
 	
 * Germany
-  * http://reddit.com/r/offenbachmeshnet
+  * https://reddit.com/r/offenbachmeshnet
     * Offenbach am Main, Hesse
 
 * Ireland
-  * http://reddit.com/r/DublinMeshnet
+  * https://reddit.com/r/DublinMeshnet
     * Dublin, Ireland
-  * http://reddit.com/r/IrelandMeshnet
+  * https://reddit.com/r/IrelandMeshnet
     * Ireland general
 	
 * Istanbul
-  * http://reddit.com/r/istanbulmeshnet
+  * https://reddit.com/r/istanbulmeshnet
     * Istanbul general
 	
 * Norway
-  * http://reddit.com/r/NorwegianMeshnet
+  * https://reddit.com/r/NorwegianMeshnet
     * Norway general
 	
 * UK
-  * http://reddit.com/r/LondonMeshnet
+  * https://reddit.com/r/LondonMeshnet
     * London
-  * http://reddit.com/r/MilnrowMeshnet
+  * https://reddit.com/r/MilnrowMeshnet
     * Milnrow, Greater Manchester
 	
 	
@@ -60,85 +60,85 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 ### Canada
 
 * British Columbia
-  * http://reddit.com/r/VancouverMeshnet
+  * https://reddit.com/r/VancouverMeshnet
     * Vancouver
 * Ontario
-  * http://reddit.com/r/kwmeshnet
+  * https://reddit.com/r/kwmeshnet
     * Kitchener-Waterloo
-  * http://reddit.com/r/meshottawa
+  * https://reddit.com/r/meshottawa
     * Ottawa
 * Toronto
-  * http://reddit.com/r/tomesh
+  * https://reddit.com/r/tomesh
     * Toronto general, absorbs /r/meshto, /r/torontomesh, /r/torontomeshnet
 
 
 ### Mexico
 
 * Mexico City
-  * http://reddit.com/r/DFMeshnet
+  * https://reddit.com/r/DFMeshnet
     * Mexico City
 
 
 ### USA
  
 * Alabama
-  * http://reddit.com/r/auburnmeshnet
+  * https://reddit.com/r/auburnmeshnet
     * Auburn
-  * http://reddit.com/r/HuntsvilleMeshnet
+  * https://reddit.com/r/HuntsvilleMeshnet
     * Huntsville
 * Alaska
 * Arizona
-  * http://reddit.com/r/PHXMeshnet
+  * https://reddit.com/r/PHXMeshnet
     * Phoenix
-  * http://reddit.com/r/TucsonMeshnet
+  * https://reddit.com/r/TucsonMeshnet
     * Tucson
 * Arkansas
 * California
-  * http://reddit.com/r/bayareameshnet
+  * https://reddit.com/r/bayareameshnet
     * California Bay
-  * http://reddit.com/r/berkeleydarknet
+  * https://reddit.com/r/berkeleydarknet
     * University of California, Berkeley
-  * http://reddit.com/r/berkeleymeshnet
+  * https://reddit.com/r/berkeleymeshnet
     * University of California, Berkeley
-  * http://reddit.com/r/OrangeMesh
+  * https://reddit.com/r/OrangeMesh
     * Orangevale, Sacramento County
-  * http://reddit.com/r/sacmeshnet
+  * https://reddit.com/r/sacmeshnet
     * Sacramento
-  * http://reddit.com/r/SacramentoMeshnet
+  * https://reddit.com/r/SacramentoMeshnet
     * Sacramento
-  * http://reddit.com/r/santacruzmeshnet
+  * https://reddit.com/r/santacruzmeshnet
     * Santa Cruz
-  * http://reddit.com/r/sfmeshnet
+  * https://reddit.com/r/sfmeshnet
     * San Francisco
   * r/SoCalMesh
     * Southern California
-  * http://reddit.com/r/socalmeshnet
+  * https://reddit.com/r/socalmeshnet
     * Southern California
 * Colorado
-  * http://reddit.com/r/bouldermeshnet
+  * https://reddit.com/r/bouldermeshnet
     * Boulder
-  * http://reddit.com/r/DenverMeshnet
+  * https://reddit.com/r/DenverMeshnet
     * Denver
-  * http://reddit.com/r/FrontRangeMeshnet
+  * https://reddit.com/r/FrontRangeMeshnet
     * Front Range, Rocky Mountains
-  * http://reddit.com/r/nocomeshnet
+  * https://reddit.com/r/nocomeshnet
     * Northern Colorado
 * Connecticut
 * Delaware
 * Florida
-  * http://reddit.com/r/floridamesh
+  * https://reddit.com/r/floridamesh
     * Florida general
-  * http://reddit.com/r/FloridaMeshnet
+  * https://reddit.com/r/FloridaMeshnet
     * Florida general (INVITE ONLY)
-  * http://reddit.com/r/orlandomeshnet
+  * https://reddit.com/r/orlandomeshnet
     * Orlando
 * Georgia
-  * http://reddit.com/r/atlantameshnet
+  * https://reddit.com/r/atlantameshnet
     * Atlanta
 * Hawaii
 * Idaho
 * Illinois
-  * http://reddit.com/r/ChicagoMeshnet
+  * https://reddit.com/r/ChicagoMeshnet
     * Chicago
 * Indiana
 * Iowa
@@ -147,22 +147,22 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 * Louisiana
 * Maine
 * Maryland
-  * http://reddit.com/r/carrollcounty
+  * https://reddit.com/r/carrollcounty
     * Carroll County (PRIVATE)
-  * http://reddit.com/r/marylandmesh
+  * https://reddit.com/r/marylandmesh
     * Maryland general, parts of NJ and DE
 * Massachusetts
-  * http://reddit.com/r/BostonMeshnet
+  * https://reddit.com/r/BostonMeshnet
     * Boston
 * Michigan
-  * http://reddit.com/r/LansingMeshNet
+  * https://reddit.com/r/LansingMeshNet
     * Lansing
 * Minnesota
-  * http://reddit.com/r/TCMeshnet
+  * https://reddit.com/r/TCMeshnet
     * Minneapolis–Saint Paul Twin Cities
 * Mississippi
 * Missouri
-  * http://reddit.com/r/StLouisMeshnet
+  * https://reddit.com/r/StLouisMeshnet
     * St. Louis
 * Montana
 * Nebraska
@@ -171,28 +171,28 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 * New Jersey
 * New Mexico
 * New York
-  * http://reddit.com/r/nycmeshnet
+  * https://reddit.com/r/nycmeshnet
     * New York City
 * North Carolina
-  * http://reddit.com/r/NCmeshnet
+  * https://reddit.com/r/NCmeshnet
     * North Carolina general
 * North Dakota
-  * http://reddit.com/r/fargomeshnet
+  * https://reddit.com/r/fargomeshnet
     * Fargo
 * Ohio
-  * http://reddit.com/r/ClevelandMeshnet
+  * https://reddit.com/r/ClevelandMeshnet
     * Cleaveland
-  * http://reddit.com/r/ohiomeshnet
+  * https://reddit.com/r/ohiomeshnet
     * Ohio general
 * Oklahoma
 * Oregon
-  * http://reddit.com/r/PortlandMeshnet
+  * https://reddit.com/r/PortlandMeshnet
     * Portland
 * Pennsylvania
-  * http://reddit.com/r/phillymeshnet
+  * https://reddit.com/r/phillymeshnet
     * Greater Philadelphia area, parts of NJ and DE, absorbs /r/delcomeshnet
 * Rhode Island
-  * http://reddit.com/r/providencemeshnet
+  * https://reddit.com/r/providencemeshnet
     * Providence
 * South Carolina
 * South Dakota
@@ -200,31 +200,31 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
   * r/NashvilleMeshNet
     * Nashville
 * Texas
-  * http://reddit.com/r/aggiemeshnet
+  * https://reddit.com/r/aggiemeshnet
     * Texas A&M University
-  * http://reddit.com/r/arlingtontxmeshnet
+  * https://reddit.com/r/arlingtontxmeshnet
     * Arlington
-  * http://reddit.com/r/austinmeshnet
+  * https://reddit.com/r/austinmeshnet
     * Austin
-  * http://reddit.com/r/DallasMeshnet
+  * https://reddit.com/r/DallasMeshnet
     * Dallas
 * Utah
 * Vermont
 * Virginia
-  * http://reddit.com/r/VirginiaMesh
+  * https://reddit.com/r/VirginiaMesh
     * Virginia general
 * Washington
-  * http://reddit.com/r/SeattleMeshnet
+  * https://reddit.com/r/SeattleMeshnet
     * Seattle
-  * http://reddit.com/r/SpokaneMeshnet
+  * https://reddit.com/r/SpokaneMeshnet
     * Spokane
 * West Virginia
 * Wisconsin
-  * http://reddit.com/r/madnet
+  * https://reddit.com/r/madnet
     * Madison
-  * http://reddit.com/r/milwaukeemeshnet
+  * https://reddit.com/r/milwaukeemeshnet
     * Milwaukee
-  * http://reddit.com/r/TCMeshnet
+  * https://reddit.com/r/TCMeshnet
     * Minneapolis–Saint Paul Twin Cities
 * Wyoming
 
@@ -232,7 +232,7 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 ### USA Virgin Islands
 
 * St. John's
-  * http://reddit.com/r/stjohnsmeshnet
+  * https://reddit.com/r/stjohnsmeshnet
     * St. John's general
 
 	
@@ -241,5 +241,5 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 ### Brazil
 
 * Brazil
-  * http://reddit.com/r/brasiliameshnet
+  * https://reddit.com/r/brasiliameshnet
     * Brazil general, (BANNED)
