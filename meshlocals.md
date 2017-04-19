@@ -100,6 +100,8 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
     * University of California, Berkeley
   * https://reddit.com/r/berkeleymeshnet
     * University of California, Berkeley
+  * https://reddit.com/r/lameshnet
+    * Los Angeles
   * https://reddit.com/r/OrangeMesh
     * Orangevale, Sacramento County
   * https://reddit.com/r/sacmeshnet

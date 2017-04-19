@@ -42,5 +42,3 @@ https://www.reddit.com/user/Famicoman/m/meshnet/new
   * General mesh network discussion
 * https://reddit.com/r/solacenetwork
   * Updates for the Solace network
-* https://reddit.com/r/wisp
-  * Discussion on operating wireless internet service providers
