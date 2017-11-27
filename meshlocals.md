@@ -59,6 +59,9 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 
 ### Canada
 
+* Alberta
+  * https://reddit.com/r/YYCMeshNet
+    *Calgary
 * British Columbia
   * https://reddit.com/r/VancouverMeshnet
     * Vancouver
