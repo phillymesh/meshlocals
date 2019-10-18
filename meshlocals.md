@@ -215,6 +215,11 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
     * Dallas
 * Utah
 * Vermont
+  * https://newportmesh.org
+    * Newport Mesh
+  * https://btvmesh.org
+    * Burlington Community Mesh / Vermont Community Internet project
+	
 * Virginia
   * https://reddit.com/r/VirginiaMesh
     * Virginia general
