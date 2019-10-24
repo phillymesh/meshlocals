@@ -61,7 +61,7 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 
 * Alberta
   * https://reddit.com/r/YYCMeshNet
-    *Calgary
+    * Calgary
 * British Columbia
   * https://reddit.com/r/VancouverMeshnet
     * Vancouver
@@ -73,7 +73,8 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
 * Toronto
   * https://reddit.com/r/tomesh
     * Toronto general, absorbs /r/meshto, /r/torontomesh, /r/torontomeshnet
-
+  * https://www.tomesh.net
+    * Tomesh's general website
 
 ### Mexico
 
@@ -215,6 +216,11 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
     * Dallas
 * Utah
 * Vermont
+  * https://newportmesh.org
+    * Newport Mesh
+  * https://btvmesh.org
+    * Burlington Community Mesh / Vermont Community Internet project
+	
 * Virginia
   * https://reddit.com/r/VirginiaMesh
     * Virginia general
