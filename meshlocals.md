@@ -75,6 +75,9 @@ https://www.reddit.com/user/Famicoman/m/meshlocals/new
     * Toronto general, absorbs /r/meshto, /r/torontomesh, /r/torontomeshnet
   * https://www.tomesh.net
     * Tomesh's general website
+* Quebec
+  * https://kulupu.io
+    * KULUPU, the Montreal mesh networking community
 
 ### Mexico
 
